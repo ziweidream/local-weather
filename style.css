@@ -1,0 +1,32 @@
+body {
+  background-image: url("http://res.cloudinary.com/dbsgnowkn/image/upload/v1508464129/snowwhiteBG_mzworr.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: blue;
+  font-family: "Trebuchet MS", Arial;
+}
+
+.mirror {
+  margin-top: 110px;
+  color: white;
+}
+
+.weather {
+  position: sticky;
+  margin-top: 80px;
+  margin-left: 12px;
+  color: blue;
+  font-size: 80%;
+}
+
+.words {
+  padding-right: 80px;
+}
+
+#icon {
+  margin: auto;
+  border: 2px solid #0000ff;
+  background: #a9a9a9;
+  width: 90px;
+  border-radius: 25px;
+}
